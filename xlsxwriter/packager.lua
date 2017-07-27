@@ -39,7 +39,7 @@
 --
 -- Copyright 2014-2015, John McNamara, jmcnamara@cpan.org
 --
-require "xlsxwriter.strict"
+-- require "xlsxwriter.strict"
 
 local ZipWriter     = require "ZipWriter"
 local App           = require "xlsxwriter.app"
